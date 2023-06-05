@@ -200,7 +200,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## Output:
 
-![image](<img width="148" alt="image" src="https://github.com/Nagajyothichinta/Ex_6_Personal-Information-of-Student/assets/94191344/525ed245-239f-40c3-aa89-16b00f420977">)
+![image](<img width="148" alt="image" src="https://github.com/Nagajyothichinta/Ex_6_Personal-Information-of-Student/assets/94191344/525ed245-239f-40c3-aa89-16b00f420977">?raw=true)
 
 
 
