@@ -9,7 +9,7 @@ To develop a program to accept personal information from the end user using Text
 Android Studio(Min. required Artic Fox)
 
 
-## ALGORITHM:
+## ALGORITHM: 
 Step 1: Open Android Studio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as SMSIntent and click Next.
